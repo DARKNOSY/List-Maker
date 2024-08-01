@@ -52,7 +52,7 @@ def delete_lines(input, temp):
 
         if os.path.exists(temp):
             os.remove(temp)
-        print("Deleted empty lines")
+        print("Empty lines have been deleted")
     else:
         print("Empty lines removal option is not enabled.")
         pass
