@@ -1,5 +1,5 @@
 {
-    "delete_spaces": false,
+    "delete_lines": false,
     "delete_duplicates": false,
     "separate_files": false,
     "reset_config": false,
