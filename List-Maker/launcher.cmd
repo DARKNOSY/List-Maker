@@ -1,4 +1,5 @@
 @echo off & cls
+title List Maker - @DARKNOSY
 color 2
 
 python --version >nul 2>&1
