@@ -3,7 +3,7 @@ import os
 
 def reset():
     default_config = {
-        "delete_spaces": False,
+        "delete_lines": False,
         "delete_duplicates": False,
         "separate_files": False,
         "reset_config": False,
