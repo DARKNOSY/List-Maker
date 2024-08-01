@@ -16,6 +16,18 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DARKNOSY&repo=List-Maker&theme=synthwave">
 </p>
 
+### [+] Options, Features & config
+<pre>
+delete_lines ➡ Delete empty lines in the output file (default is False)
+delete_duplicates ➡ Delete duplicate elements in the output list (default is false)
+separate_files ➡ Put files' content in the output list file and a space between each files' content (default is false)
+reset_config ➡ Button to reset config, enable only then press save (default is false)
+delimiter_before ➡ Delimiter in the input file(s) (default is \n so basically go to the line)
+delimiter_after ➡ Delimiter in the output file (default is \n so basically go to the line)
+input_files ➡ File(s) that you are trying to combine or modify (default is [])
+output_name ➡ Output folder name (set to output, don't change)
+</pre>
+
 ### [+] Description
 Easy to use list maker for password, username,... lists with a gui
 
